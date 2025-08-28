@@ -4,6 +4,7 @@ This project builds a **data pipeline** for processing and analyzing Amazon prod
 It demonstrates skills in **data wrangling, preprocessing, NLP, and visualization**, turning raw semi-structured data into meaningful insights.  
 
 ## Project Structure  
+```text
 Amazon-Review-NLP-Pipeline/
 │
 ├── data_pipeline/
@@ -31,7 +32,7 @@ Amazon-Review-NLP-Pipeline/
 │ └── review_length_by_rating.png
 │
 ├── README.md
-
+```
 
 ## Features  
 
